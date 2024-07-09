@@ -23,8 +23,7 @@ Caso o usuário selecione a opção “4”, o sistema deve mostrar as seguintes
 - Apresentar a média de idade de animais por sexo
 
 
-Cada uma das opções do menu e submenus devem ser desenvolvidas através de funções.
-
-Para as opções “2” e “4” a raça e sexo devem ser passados por parâmetro para as funções.
-
-Casos omissos devem ser tratados pelo desenvolvedor e fazem parte da avaliação.
+> [!IMPORTANT]
+> - Cada uma das opções do menu e submenus devem ser desenvolvidas através de funções.
+> - Para as opções “2” e “4” a raça e sexo devem ser passados por parâmetro para as funções.
+> - Casos omissos devem ser tratados pelo desenvolvedor e fazem parte da avaliação.
