@@ -3,7 +3,7 @@
 
 	typedef struct{	//struct anonima com o "apelido" de central_zoo;
 
-		char raca[100];
+		char raca[100]; //teste
 
 		char sexo[30];
 
